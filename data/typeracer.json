@@ -1,0 +1,64 @@
+{
+
+        "1": {
+            "filename": "Text1.png",
+            "answer": "Peter und seine Freunde haben viel Spaß, seine Freunde heißen Günter und Marvin.",
+            "timer": 29
+        },
+        "2": {
+            "filename": "Text2.png",
+            "answer": "Rauch Rauch und ich zieh am Jibbet, fahr zwar Bahn aber kauf kein Ticket.",
+            "timer": 26
+        },
+        "3": {
+            "filename": "Text3.png",
+            "answer": "Ich möchte nie mehr so fühlen, wie ich einst an diesem Tag fühlte, zu vieles schwirrte mir im Kopf.",
+            "timer": 29
+        },
+        "4": {
+            "filename": "Text4.png",
+            "answer": "Damals als Micha noch der höchste Gott war, schien alles besser.",
+            "timer": 24
+        },
+        "5": {
+            "filename": "Text5.png",
+            "answer": "Bis in die fünfziger Jahre setzen sich viele Kurzgeschichten kritisch mit der Nachkriegszeit auseinander.",
+            "timer": 30
+        },
+        "6": {
+            "filename": "Text6.png",
+            "answer": "Das ist ein ganz schön kurzer Satz, oder?",
+            "timer": 20
+        },
+        "7": {
+            "filename": "Text7.png",
+            "answer": "Wie redet man Wörter?",
+            "timer": 15
+        },
+        "8": {
+            "filename": "Text8.png",
+            "answer": "Was sind die teuersten Tomaten? Die Geldautomaten.",
+            "timer": 22
+        },
+        "9": {
+            "filename": "Text9.png",
+            "answer": "Teemo schreckt sogar vor den gefährlichsten und furchterregendsten Problemen nicht zurück.",
+            "timer": 28
+        },
+        "10": {
+            "filename": "Text10.png",
+            "answer": "Akali hat dem Kinkou-Orden und dem Titel der Faust der Schatten entsagt.",
+            "timer": 25
+        },
+        "11": {
+            "filename": "Text11.png",
+            "answer": "Rakan, ein gleichermaßen wankelmütiger wie charmanter Geselle.",
+            "timer": 23
+        },
+        "12": {
+            "filename": "Text12.png",
+            "answer": "Yasuo ist ein entschlossener und wendiger Schwertkämpfer, der die Luft selbst gegen seine Gegner einsetzt.",
+            "timer": 30
+        }
+
+}

@@ -1,0 +1,135 @@
+[
+    {
+        "role_name": "\ud83c\udfa8\u2502Rot",
+        "role_id": 800413581149077504,
+        "emoji": "Rot",
+        "message_id": 800433642325278730,
+        "text": "~ Du bist jetzt **Rot**"
+    },
+    {
+        "role_name": "\ud83c\udfa8\u2502Pastell Rot",
+        "role_id": 800413691198832691,
+        "emoji": "PastellRot",
+        "message_id": 800433642325278730,
+        "text": "~ Du bist jetzt **Pastell Rot**"
+    },
+    {
+        "role_name": "\ud83c\udfa8\u2502Orange",
+        "role_id": 800413710396555335,
+        "emoji": "Orange",
+        "message_id": 800433642325278730,
+        "text": "~ Du bist jetzt **Orange**"
+    },
+    {
+        "role_name": "\ud83c\udfa8\u2502Pink",
+        "role_id": 800412661124825128,
+        "emoji": "Pink",
+        "message_id": 800433642325278730,
+        "text": "~ Du bist jetzt **Pink**"
+    },
+    {
+        "role_name": "\ud83c\udfa8\u2502Pastell Orange",
+        "role_id": 800413581149077504,
+        "emoji": "PastellOrange",
+        "message_id": 800433642325278730,
+        "text": "~ Du bist jetzt **Pastell Orange**"
+    },
+    {
+        "role_name": "\ud83c\udfa8\u2502Pastell",
+        "role_id": 800413729630978089,
+        "emoji": "Pastell",
+        "message_id": 800433642325278730,
+        "text": "~ Du bist jetzt **Pastell**"
+    },
+    {
+        "role_name": "\ud83c\udfa8\u2502Gelb",
+        "role_id": 800413739937562624,
+        "emoji": "Gelb",
+        "message_id": 800433642325278730,
+        "text": "~ Du bist jetzt **Gelb**"
+    },
+    {
+        "role_name": "\ud83c\udfa8\u2502Dunkel Gr\u00fcn",
+        "role_id": 800413749013905478,
+        "emoji": "DunkelGruen",
+        "message_id": 800433642325278730,
+        "text": "~ Du bist jetzt **Dunkel Gr\u00fcn**"
+    },
+    {
+        "role_name": "\ud83c\udfa8\u2502Gr\u00fcn",
+        "role_id": 800413759968510003,
+        "emoji": "Gruen",
+        "message_id": 800433642325278730,
+        "text": "~ Du bist jetzt **Gr\u00fcn**"
+    },
+    {
+        "role_name": "\ud83c\udfa8\u2502T\u00fcrkis",
+        "role_id": 800413768735260672,
+        "emoji": "Tuerkis",
+        "message_id": 800433642325278730,
+        "text": "~ Du bist jetzt **T\u00fcrkis**"
+    },
+    {
+        "role_name": "\ud83c\udfa8\u2502Pastell T\u00fcrkis",
+        "role_id": 800413777471995974,
+        "emoji": "PastellTuerkis",
+        "message_id": 800433642325278730,
+        "text": "~ Du bist jetzt **Pastell T\u00fcrkis**"
+    },
+    {
+        "role_name": "\ud83c\udfa8\u2502Blau",
+        "role_id": 800413786737213490,
+        "emoji": "Blau",
+        "message_id": 800433642325278730,
+        "text": "~ Du bist jetzt **Blau**"
+    },
+    {
+        "role_name": "\ud83c\udfa8\u2502Pastell Blau",
+        "role_id": 800413796464066601,
+        "emoji": "PastellBlau",
+        "message_id": 800433642325278730,
+        "text": "~ Du bist jetzt **Pastell Blau**"
+    },
+    {
+        "role_name": "\ud83c\udfa8\u2502Lila",
+        "role_id": 800413807142633492,
+        "emoji": "Lila",
+        "message_id": 800433642325278730,
+        "text": "~ Du bist jetzt **Lila**"
+    },
+    {
+        "role_name": "\ud83c\udfa8\u2502Pastell Lila",
+        "role_id": 800413815815536650,
+        "emoji": "PastellLila",
+        "message_id": 800433642325278730,
+        "text": "~ Du bist jetzt **Pastell Lila**"
+    },
+    {
+        "role_name": "\ud83c\udfa8\u2502Wei\u00df",
+        "role_id": 800413824443351070,
+        "emoji": "Weiss",
+        "message_id": 800433642325278730,
+        "text": "~ Du bist jetzt **Wei\u00df**"
+    },
+    {
+        "role_name": "\ud83c\udfa8\u2502Schwarz",
+        "role_id": 800413833386262558,
+        "emoji": "Schwarz",
+        "message_id": 800433642325278730,
+        "text": "~ Du bist jetzt **Schwarz**"
+    },
+    {
+        "role_name": "Anime Pfp's",
+        "role_id": 801039950840856586,
+        "emoji": "lovely",
+        "message_id": 801040759348133929,
+        "text": "~ Du hast jetzt zugriff auf **\u3014\ud83d\udcae\u3015anime-pfp**"
+    },
+    {
+        "role_name": "temp privacy role",
+        "role_id": 826584711518093382,
+        "emoji": "\ud83e\udd78",
+        "message_id": 826589679985098852,
+        "text": "~ **Wie anonym sind die Beichten genau?**\nAuf dem Server haben wir verschiedene Wege Nachrichten wieder her zu stellen, jedoch funktionieren diese so das eine Nachricht geschickt wurde und gespeichert wird bevor sie gel\u00f6scht wird.\n/confession benutzt die von Discord zu verf\u00fcgung gestellte Bot API und funktioniert somit intern ohne das eine Nachricht von dir gesendet wird wenn du diesen Bot benutzt.\nDas hei\u00dft deine Beichten sind komplett anonym.\n \n Viel Spa\u00df beim Beichten!"
+    }
+]
