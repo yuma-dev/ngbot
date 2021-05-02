@@ -1,5 +1,9 @@
 # Der ng ChatBot!
 
+*Dieser Github Eintrag dient nicht um selfhosting zu ermöglichen, wichtige Dateien wurden ausgelassen um die Sicherheit des Bots zu behalten und keine privaten Informationen preis zu geben.*
+
+
+
 Ein bestehendes Chatbot Projekt mit dem Sozialen Netzwerk Discord.
 
 Vortlaufende programmierung seid November letzten Jahres.
